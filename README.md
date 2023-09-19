@@ -5,7 +5,7 @@ Some fun PCB coasters for spreading the word about our lab and CU Boulder! Go Bu
 ![AIMRL Coaster Top](/Photos/AIMRL-Coaster/AIMRL-Coaster-Bottom.png)
 ### (Top View)
 ![AIMRL Coaster Bottom](/Photos/AIMRL-Coaster/AIMRL-Coaster-Top.png)
-###(Bottom View) 
+### (Bottom View) 
 ## Coach Prime 2023 Coaster Top View
 ![Buff Prime Coaster Top](/Photos/Buff-Prime-Coaster/Buff-Prime-Coaster-Top.png)
 ### (Top View)
